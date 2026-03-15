@@ -2,6 +2,9 @@
 
 A simple weather desktop app built with Python and CustomTkinter.
 
+## Screenshot
+![Weather App](screenshot.png)
+
 ## Features
 - Current temperature and feels like
 - Weather status, humidity and wind speed
